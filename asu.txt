@@ -1,0 +1,104 @@
+  <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <!-- Bagian PENGALAMAN -->
+                <div class="row">
+                    <h3 class="col-md-9">PENGALAMAN</h3>
+                </div>
+                <div class="row pt-1">
+                    <i class="fa fa-instagram fa-2x" aria-hidden="true"></i>
+                    <ul>
+                        <li><b>Instagram</b></li>
+                        <li>Mempromosikan Produk</li>
+                        <li>2022-2023</li>
+                    </ul>
+                </div>
+                <div class="row">
+                    <i class="fa fa-whatsapp fa-2x" aria-hidden="true"></i>
+                    <ul>
+                        <li><b>Whatsapp</b></li>
+                        <li>Mempromosikan Produk</li>
+                        <li>2022-2023</li>
+                    </ul>
+                </div>
+                <div class="row">
+                    <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+                    <ul>
+                        <li><b>Twitter</b></li>
+                        <li>Menjual Produk</li>
+                        <li>2022-2023</li>
+                    </ul>
+                </div>
+                <div class="row">
+                    <i class="fa fa-youtube fa-2x" aria-hidden="true"></i>
+                    <ul>
+                        <li><b>YouTube</b></li>
+                        <li>Mencoba menjadi Youtuber</li>
+                        <li>2016-2017</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <!-- Bagian PRESTASI -->
+                <div class="row">
+                    <h3 class="col-md-8">PRESTASI</h3>
+                </div>
+                <div class="row pt-1">
+                    <ul>
+                        <li><b>Juara 1 Cerdas Cermat</b></li>
+                        <li>Memenangkan Juara 1 Cerdas Cermat tingkat RW</li>
+                    </ul>
+                </div>
+                <div class="row ">
+                    <ul>
+                        <li><b>Best Player at Futsal Tournament</b></li>
+                        <li>Memenangkan Penghargaan Pemain Terbaik dalam Turnamen Futsal</li>
+                    </ul>
+                </div>
+                <div class="row">
+                    <ul>
+                        <li><b>1st, 2nd, 3rd Rank in Class</b></li>
+                        <li>Pernah menjadi Siswa dengan ranking 1, 2, 3 di sekolah</li>
+                    </ul>
+                </div>
+                <div class="row">
+                    <ul>
+                        <li><b>Siswa Teladan</b></li>
+                        <li>Pernah menjadi Siswa Teladan di Sekolah dan di Pesantren Kilat</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <!-- Bagian KEMAMPUAN -->
+                <div class="row" class="col pt-5">
+                    <h3 class="col-md-8">KEMAMPUAN</h3>
+                </div>
+                <div class="row">
+                    <ul>
+                        <li><b>Graphic Design</b></li>
+                        <li>Mampu Mendesign di beberapa software</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <!-- Bagian PENDIDIKAN DAN SERTIFIKAT -->
+                <div class="row">
+                    <h3 class="col-md-12">PENDIDIKAN DAN SERTIFIKAT</h3>
+                </div>
+                <div class="row">
+                    <ul>
+                        <li><b>Harvard University</b></li>
+                        <li>Computer Science</li>
+                        <li>2020</li>
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    
+ 
